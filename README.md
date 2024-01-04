@@ -1,4 +1,4 @@
-# todolist
+# todolist using flutter
 
 This is a simple minimalist to do list application
 (For the people who ask why this color? Idk either)
