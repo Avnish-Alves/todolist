@@ -1,16 +1,9 @@
 # todolist
 
-A new Flutter project.
+This is a simple minimalist to do list application
+(For the people who ask why this color? Idk either)
 
-## Getting Started
+![Screenshot_20240104-091457](https://github.com/Reavset/todolist/assets/109836352/0a035c48-1c32-46a4-b669-7dc4d583bba5)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240104-091448](https://github.com/Reavset/todolist/assets/109836352/94b1a378-8baa-4d29-9cd9-a8910a183cf2)
